@@ -136,4 +136,14 @@ This project transformed Climate windfall  data into **clear, actionable insight
   **Joseph Leonard G**  
 *Data Analyst | Power BI Developer* 
 
-- 🌐 GitHub: [Shalini_K] 
+- 🌐 GitHub: [Joseph Leonard_G](https://github.com/josephleonard158-blip)
+- 💼 LinkedIn:[Joseph Leonard_G](https://www.linkedin.com/in/joseph-leonard-g-2658823a6/)
+- 📧 Email: josephleonard158@gmail.com
+
+If this project useful or have feedback, feel free to reach out! 
+
+---
+
+## 📚 Tags
+`#PowerBI` `#DataAnalysis` `#WindFall` `#Rainfall Climate`  
+`#DAX` `#DataVisualization` `#ExcelPowerQuery`
