@@ -106,4 +106,4 @@ Detect trends and dependencies among environmental factors
    - Geographic Coverage - States Involved: Gujarat, Karnataka, Madhya Pradesh, Tamil Nadu, Delhi, Telangana, Rajasthan, West Bengal, Uttar Pradesh etc..
    - Visualizations and Insights - Wind Speed Analysis: Cities are categorized by wind speed
 
-  ![Dashboard Preview]
+  ![Dashboard Preview] 
