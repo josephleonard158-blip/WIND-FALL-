@@ -106,4 +106,34 @@ Detect trends and dependencies among environmental factors
    - Geographic Coverage - States Involved: Gujarat, Karnataka, Madhya Pradesh, Tamil Nadu, Delhi, Telangana, Rajasthan, West Bengal, Uttar Pradesh etc..
    - Visualizations and Insights - Wind Speed Analysis: Cities are categorized by wind speed
 
-  ![Dashboard Preview] 
+  ![Dashboard Preview](https://github.com/josephleonard158-blip/WIND-FALL-/blob/main/Dashboards/Screenshot%202026-03-19%20102808.png)
+
+---
+
+## 📈 Performance Insights
+
+- 🟢 **Rainfall and Weather Performance** project tracks a total of 500 event IDs with an average rainfall of 5.7523 mm
+- 💹 **Humidity Levels** Delhi recorded the highest sum of humidity at 3,368.70%, followed closely by Ahmedabad (3,280.10%) and Kolkata (3,258.10%)
+- 💧 **Air Quality Index (AQI) Analysis** The sum of AQI is analyzed across categories such as "Poor,"
+- 📈 **Year-to-Date (YTD) Summary by City** Delhi: 3.37K (10.54%),Ahmedabad: 3.28K (10.26%),Kolkata: 3.26K (10.2%),Chennai: 3.24K (10.14%)
+
+---
+
+## 🧠 Conclusion
+
+Based on the Power BI project data, the analysis provides a comprehensive overview of weather and environmental metrics across several major Indian cities
+Key findings include:
+- Delhi recorded the highest sum of humidity at 3,368.70, followed closely by Ahmedabad at 3,280.10
+- The project tracks AQI categories ranging from "Good" to "Very Poor".
+- Positive Correlation: There is a visible positive correlation between the Sum of Cloud Cover (%) and the Sum of Average Temperature (°C) across various cities.
+
+This project transformed Climate windfall  data into **clear, actionable insights** on Rainfall and Humidity.
+
+---
+
+## 👩‍💻 Author
+
+  **Joseph Leonard G**  
+*Data Analyst | Power BI Developer* 
+
+- 🌐 GitHub: [Shalini_K] 
